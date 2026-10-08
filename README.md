@@ -62,12 +62,12 @@ This analysis aims to answer the following questions:
 
 ---
 ## Recommendation
-### ZoomRide should consider investing in Lagos because:
+1. ZoomRide should consider investing in Lagos because:
 - It recorded the highest number of rides
 - It demonstrated high demand and strong revenue
 - Additional drivers and operational resources would help ZoomRide omelette more rides, reduce cancellations,
   improve customer satisfaction and increase revenue
-  ### ZoomRide should integrate data validation system into their database to improve data quality for more accurate analysis
+2. ZoomRide should integrate data validation system into their database to improve data quality for more accurate analysis
 
 ---
 ## Conclusion
@@ -79,5 +79,6 @@ informed decisions about growth and operational improvement
 ## Author
 
 Akinyemi Muinat Adekemi
+
 Data Analyst
   
