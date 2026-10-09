@@ -58,7 +58,7 @@ This analysis aims to answer the following questions:
 
 ---
 ## Files in this Repository
-- [ZoomRide SQL file](ZoomRide_(1).SQL)
+- [ZoomRide SQL file](ZoomRide_(1).sql)
 
 ---
 ## Recommendation
