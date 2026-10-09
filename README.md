@@ -59,7 +59,8 @@ This analysis aims to answer the following questions:
 ---
 ## Files in this Repository
 - [ZoomRide SQL file](ZoomRide_(1).sql)
-
+- [Answer sheet for zoomRide](Answer_sheet_for_zoomRide_project.pdf)
+- README.md
 ---
 ## Recommendation
 1. ZoomRide should consider investing in Lagos because:
